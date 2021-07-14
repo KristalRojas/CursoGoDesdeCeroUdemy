@@ -2,10 +2,8 @@ package main
 
 import (
 	"fmt"
-	"strconv"
+	"strconv" //<--Paquete para convertir
 )
-
-//<--Paquete para convertir
 
 //Como se declaran las variables (globales ya que estan fuera del main)
 var numero int
